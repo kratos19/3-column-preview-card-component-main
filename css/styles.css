@@ -74,6 +74,8 @@ body {
     .cards-wrapper {
         width: 920px;
         flex-direction: row;
+        margin-top: 165px;
+        margin-bottom: 130px;
     }
 
     .card:nth-child(1) {
